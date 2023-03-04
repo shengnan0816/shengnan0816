@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-this is a summary of all my projects
+this is a summary of all my projects by programming language
 
 ## Python
 
