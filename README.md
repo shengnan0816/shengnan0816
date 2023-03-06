@@ -14,4 +14,4 @@ this is a summary of all my projects by programming language
 
 
 ## Javascript
-- [email automation - app script executed every one hour and captured all entries in Google Sheet created in last hour](https://github.com/shengnan0816/automateemail)
+- [email automation - app script is executed every one hour and captures all entries in Google Sheet created in last hour](https://github.com/shengnan0816/automateemail)
